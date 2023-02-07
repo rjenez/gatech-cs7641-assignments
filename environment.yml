@@ -1,0 +1,26 @@
+name: ray
+channels:
+  - conda-forge
+  - pytorch
+dependencies:
+  - ray-all
+  - modin
+  - boto3
+  - s3fs
+  - joblib
+  - grpclib
+  - category_encoders
+  - shap
+  - ray-train
+  - xgboost
+  - seaborn
+  - tzlocal
+  - plotly
+  - tune-sklearn
+  - mlflow
+  - transformers
+  - jupyterlab
+  - jupyter
+  - matplotlib-label-lines
+  - imbalanced-learn
+prefix: /home/ec2-user/.conda/envs/ray
