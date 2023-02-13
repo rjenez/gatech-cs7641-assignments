@@ -2,8 +2,10 @@ README.txt - Assignment1
 
 This file contains a brief introduction as to how to run the jupyter notebooks for data analysis, training, and testing for 
 the analysis of the five models and two datasets.
-The location for all of this assignment is in my github repo (https://github.com/rjenez/gatech-cs7641-assignments) under Assignments/SupervisedLearning. I have
-made a shareable link through gitfront.io (https://gitfront.io/r/ricardojenez/gkJn5KrwThuB/gatech-cs7641-assignments/tree/Assignments/SupervisedLearning/).
+The location for all of this assignment is in my github repo
+(https://github.com/rjenez/gatech-cs7641-assignments/tree/main/Assignments/SupervisedLearning) under Assignments/SupervisedLearning. I have
+made a shareable link through gitfront.io
+(https://gitfront.io/r/ricardojenez/gkJn5KrwThuB/gatech-cs7641-assignments/tree/Assignments/SupervisedLearning/).
 
 First we need to download the datasets:
 The airline dataset from Kaggle:
